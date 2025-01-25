@@ -9,20 +9,17 @@
 </div>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi </b>
-Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarrollo web, actualmente me enfoco en el Fronted , pero he ido explorando y estudiando para convertirme en todo un Full Stack!!
+Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarrollo web, actualmente me especializo en el Fronted , pero he ido explorando y estudiando para convertirme en todo un Full Stack!!
 <br>
 
   
 
 
- -  🔭 Soy Positivo y Ocurrente 😉
+ - 😁Soy Positivo e Inovador 💡
 
-- 👯 Me gusta Trabajar en equipo.
+- 🤜🤛 Me gusta Trabajar en equipo.
 
-- 🌱 Me gusta seguir estudiando y aprendiendo
-
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 📕Me gusta seguir estudiando y aprendiendo.
 
 
 <br>
