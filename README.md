@@ -19,23 +19,14 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
 
 - 🤜🤛 Me gusta Trabajar en equipo.
 
-- 📕Me gusta seguir estudiando y aprendiendo.
+- 📕Me gusta estudiar y aprender cada dia.
 
 
 <br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Programming languages
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
+### 📋 Lenguajes de Programacion
 
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
@@ -53,15 +44,7 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
-</p>
-
-
-
-
-### 📋 Frontend Development
+  ## 📋 Frontend Developer
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -102,26 +85,8 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
 </p>
 
 
-
-
-    
-
-
-
 ### ♾️ DevOps
 
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
@@ -146,25 +111,14 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  
-  
-   <a href="https://www.sqlite.org/" target="_blank"> 
+     <a href="https://www.sqlite.org/" target="_blank"> 
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
   </a>   
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> 
   
  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
 
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
-  </a>
-  
 </p>
 
 
