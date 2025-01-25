@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Fronted+Jr;Backend+Jr;DesarrolloWeb;)](https://git.io/typing-svg)
 </div>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi </b>
 Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarrollo web, actualmente me especializo en el Fronted , pero he ido explorando y estudiando para convertirme en todo un Full Stack!!
@@ -67,13 +67,6 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
 </p>
 
 
- ## 📋 Framework
-
-<p align="left"> 
-  <a href="https://laravel.com/" target="_blank"> 
-   <img alt="laravel" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
 
 
 
