@@ -49,7 +49,7 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
   ## 📋 Frontend Developer
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://lenguajehtml.com//" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   
@@ -65,6 +65,16 @@ Soy Jesus, Me gradue como Ing. en Sistemas Computacionales me gusta el desarroll
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
 </p>
+
+
+ ## 📋 Framework
+
+<p align="left"> 
+  <a href="https://laravel.com/" target="_blank"> 
+   <img alt="laravel" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  
+
 
 
 ### ☁️ Cloud
